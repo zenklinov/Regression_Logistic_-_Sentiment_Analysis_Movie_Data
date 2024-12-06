@@ -11,6 +11,7 @@ This project is based on the Coursera course: [Perform Sentiment Analysis with s
 ## Files
 - `sentiment_movie_reviews.ipynb`: Jupyter Notebook containing the code for sentiment analysis.
 - `movie_data_csv.rar`: Compressed file containing the movie data CSV file.
+- `logistic_regression_model.joblib`: Model of Logistic Regression
 - `LICENSE`: Apache-2.0 license file.
 
 ## Usage
